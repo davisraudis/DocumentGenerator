@@ -1,0 +1,5 @@
+C:\Users\Davis\source\repos\Project\DocumentGenerator\DocumentGenerator.Data\bin\Debug\netcoreapp2.0\DocumentGenerator.Data.deps.json
+C:\Users\Davis\source\repos\Project\DocumentGenerator\DocumentGenerator.Data\bin\Debug\netcoreapp2.0\DocumentGenerator.Data.dll
+C:\Users\Davis\source\repos\Project\DocumentGenerator\DocumentGenerator.Data\obj\Debug\netcoreapp2.0\DocumentGenerator.Data.csproj.CoreCompileInputs.cache
+C:\Users\Davis\source\repos\Project\DocumentGenerator\DocumentGenerator.Data\obj\Debug\netcoreapp2.0\DocumentGenerator.Data.AssemblyInfoInputs.cache
+C:\Users\Davis\source\repos\Project\DocumentGenerator\DocumentGenerator.Data\obj\Debug\netcoreapp2.0\DocumentGenerator.Data.AssemblyInfo.cs
